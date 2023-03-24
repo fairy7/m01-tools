@@ -1,0 +1,8 @@
+server:
+  port: 8788
+
+ffmpeg:
+  binPath: D:\soft\ffmpeg-20200831-4a11a6f-win64-static\bin\
+  videoPath: D:\video\
+  gifPath: D:\video\export\gif\
+  m3u8Path: D:\video\export\m3u8\
